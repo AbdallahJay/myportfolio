@@ -1,0 +1,21 @@
+h3{
+    color: red;
+    text-align: center;
+    font-size: 30px; 
+}
+p{
+    text-align: justify;
+    border: 1px solid;
+    margin:50px 400px 90px  
+    
+}
+body{
+    background-color: white;
+}
+img{
+    width: 200px;
+    height: 200px;
+    border-top: 2px dashed red;
+    border-radius: 50%;
+    padding: 30px;
+}
